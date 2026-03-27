@@ -1,0 +1,11 @@
+[
+  {
+    "apelido": "Pelli",
+    "endereco": "Rua UFVJM, Bairro Universidade, Diamantina - MG",
+    "telefone": "(38)90123-4567",
+    "nome": "Eduardo",
+    "sobrenome": "Pelli",
+    "cpf": "12345678900",
+    "email": "eduardo.pelli@ufvjm.edu.br"
+  }
+]

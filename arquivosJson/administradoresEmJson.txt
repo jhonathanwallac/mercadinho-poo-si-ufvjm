@@ -1,0 +1,10 @@
+[
+  {
+    "login": "jhonathan",
+    "senha": "jhots123",
+    "nome": "Jhonathan",
+    "sobrenome": "Santos",
+    "cpf": "98765432100",
+    "email": "jhonathansantos@gmail.com"
+  }
+]

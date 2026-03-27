@@ -1,0 +1,123 @@
+[
+  {
+    "idVenda": 1,
+    "dataVenda": "Nov 27, 2023, 12:00:00 AM",
+    "statusVenda": "Finalizada",
+    "itensVendidos": [
+      {
+        "idProduto": 123456,
+        "nome": "Iogurte",
+        "dataFabricacao": "Oct 27, 2023, 12:00:00 AM",
+        "dataValidade": "Nov 27, 2023, 12:00:00 AM",
+        "precoCusto": 8.5,
+        "preco": 12.25,
+        "quantidade": 2,
+        "categoria": "Laticinios",
+        "fornecedor": "Itambe"
+      },
+      {
+        "idProduto": 123456,
+        "nome": "Iogurte",
+        "dataFabricacao": "Oct 27, 2023, 12:00:00 AM",
+        "dataValidade": "Nov 27, 2023, 12:00:00 AM",
+        "precoCusto": 8.5,
+        "preco": 12.25,
+        "quantidade": 2,
+        "categoria": "Laticinios",
+        "fornecedor": "Itambe"
+      },
+      {
+        "idProduto": 123456,
+        "nome": "Iogurte",
+        "dataFabricacao": "Oct 27, 2023, 12:00:00 AM",
+        "dataValidade": "Nov 27, 2023, 12:00:00 AM",
+        "precoCusto": 8.5,
+        "preco": 12.25,
+        "quantidade": 2,
+        "categoria": "Laticinios",
+        "fornecedor": "Itambe"
+      },
+      {
+        "idProduto": 123456,
+        "nome": "Iogurte",
+        "dataFabricacao": "Oct 27, 2023, 12:00:00 AM",
+        "dataValidade": "Nov 27, 2023, 12:00:00 AM",
+        "precoCusto": 8.5,
+        "preco": 12.25,
+        "quantidade": 2,
+        "categoria": "Laticinios",
+        "fornecedor": "Itambe"
+      },
+      {
+        "idProduto": 123456,
+        "nome": "Iogurte",
+        "dataFabricacao": "Oct 27, 2023, 12:00:00 AM",
+        "dataValidade": "Nov 27, 2023, 12:00:00 AM",
+        "precoCusto": 8.5,
+        "preco": 12.25,
+        "quantidade": 2,
+        "categoria": "Laticinios",
+        "fornecedor": "Itambe"
+      },
+      {
+        "idProduto": 123456,
+        "nome": "Iogurte",
+        "dataFabricacao": "Oct 27, 2023, 12:00:00 AM",
+        "dataValidade": "Nov 27, 2023, 12:00:00 AM",
+        "precoCusto": 8.5,
+        "preco": 12.25,
+        "quantidade": 2,
+        "categoria": "Laticinios",
+        "fornecedor": "Itambe"
+      },
+      {
+        "idProduto": 123456,
+        "nome": "Iogurte",
+        "dataFabricacao": "Oct 27, 2023, 12:00:00 AM",
+        "dataValidade": "Nov 27, 2023, 12:00:00 AM",
+        "precoCusto": 8.5,
+        "preco": 12.25,
+        "quantidade": 2,
+        "categoria": "Laticinios",
+        "fornecedor": "Itambe"
+      },
+      {
+        "idProduto": 123456,
+        "nome": "Iogurte",
+        "dataFabricacao": "Oct 27, 2023, 12:00:00 AM",
+        "dataValidade": "Nov 27, 2023, 12:00:00 AM",
+        "precoCusto": 8.5,
+        "preco": 12.25,
+        "quantidade": 2,
+        "categoria": "Laticinios",
+        "fornecedor": "Itambe"
+      },
+      {
+        "idProduto": 123456,
+        "nome": "Iogurte",
+        "dataFabricacao": "Oct 27, 2023, 12:00:00 AM",
+        "dataValidade": "Nov 27, 2023, 12:00:00 AM",
+        "precoCusto": 8.5,
+        "preco": 12.25,
+        "quantidade": 2,
+        "categoria": "Laticinios",
+        "fornecedor": "Itambe"
+      },
+      {
+        "idProduto": 123456,
+        "nome": "Iogurte",
+        "dataFabricacao": "Oct 27, 2023, 12:00:00 AM",
+        "dataValidade": "Nov 27, 2023, 12:00:00 AM",
+        "precoCusto": 8.5,
+        "preco": 12.25,
+        "quantidade": 2,
+        "categoria": "Laticinios",
+        "fornecedor": "Itambe"
+      }
+    ],
+    "valorTotalVenda": 122.5,
+    "cpfComprador": "12345678900",
+    "nomeComprador": "Eduardo",
+    "codigoCaixa": "Caixa 03"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "idProduto": 123456,
+    "nome": "Iogurte",
+    "dataFabricacao": "Oct 27, 2023, 12:00:00 AM",
+    "dataValidade": "Nov 27, 2023, 12:00:00 AM",
+    "precoCusto": 8.5,
+    "preco": 12.25,
+    "quantidade": 2,
+    "categoria": "Laticinios",
+    "fornecedor": "Itambe"
+  },
+  {
+    "idProduto": 654321,
+    "nome": "Banana",
+    "dataFabricacao": "Nov 1, 2023, 12:00:00 AM",
+    "dataValidade": "Nov 27, 2023, 12:00:00 AM",
+    "precoCusto": 2.25,
+    "preco": 5.25,
+    "quantidade": 8,
+    "categoria": "Frutas",
+    "fornecedor": "Benassi"
+  },
+  {
+    "idProduto": 415263,
+    "nome": "Detergente",
+    "dataFabricacao": "Nov 27, 2023, 12:00:00 AM",
+    "dataValidade": "Jan 1, 2025, 12:00:00 AM",
+    "precoCusto": 0.5,
+    "preco": 1.5,
+    "quantidade": 40,
+    "categoria": "Limpeza",
+    "fornecedor": "Ype"
+  }
+]

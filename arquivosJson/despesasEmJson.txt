@@ -1,0 +1,26 @@
+[
+  {
+    "idDespesa": 1,
+    "nomeDespesa": "Compra de mercadoria",
+    "valorDespesa": 50.75,
+    "dataDespesa": "Nov 27, 2023, 12:00:00 AM"
+  },
+  {
+    "idDespesa": 2,
+    "nomeDespesa": "Compra de mercadorias",
+    "valorDespesa": 100.25,
+    "dataDespesa": "Oct 27, 2023, 12:00:00 AM"
+  },
+  {
+    "idDespesa": 3,
+    "nomeDespesa": "Compras de mercadorias",
+    "valorDespesa": 5.0,
+    "dataDespesa": "Nov 10, 2023, 12:00:00 AM"
+  },
+  {
+    "idDespesa": 4,
+    "nomeDespesa": "Compras de mercadoria",
+    "valorDespesa": 10.0,
+    "dataDespesa": "Oct 5, 2023, 12:00:00 AM"
+  }
+]
